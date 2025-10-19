@@ -36,6 +36,7 @@ The dashboard consists of six main panels:
 
 2. **Usage Instructions:**
    - Open the Excel file.
+     - <a href="https://github.com/abdulrahman-sha/Excel-project/blob/main/COVID-19%20Arab%20world.xlsx">covid-19 arab world </a>
    - Use the slicers to filter data by year or by country.
    - Observe automatic updates to charts for your selections.
    - Analyze different aspects of the pandemic using the various visualizations.
