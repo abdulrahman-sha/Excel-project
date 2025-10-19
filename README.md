@@ -32,7 +32,7 @@ The dashboard consists of six main panels:
 
 1. **Requirements:**
    - Microsoft Excel (Recommended: Excel 2016 or newer for best compatibility)
-   - No additional add-ins required
+  
 
 2. **Usage Instructions:**
    - Open the Excel file.
@@ -46,14 +46,13 @@ The dashboard consists of six main panels:
 
 ## Screenshot
 
-![Dashboard Overview](./dashboard-screenshot.png)
-*Sample view of the dashboard showing cases, deaths, and death rates by year and country.*
+- <a href="https://github.com/abdulrahman-sha/Excel-project/blob/main/covi19.png">covid-19 dashboard</a>
 
 ## Author
 
 - **abdulrahman-sha**
 
-For questions or feedback, please contact [abdulrahman-sha](https://github.com/abdulrahman-sha).
+For questions or feedback, please contact abooodsh123@gmail.com .
 
 ---
 
